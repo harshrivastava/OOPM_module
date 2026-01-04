@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 🎮 Fantasy RPG - OOP School Project
+# 🎮STRANGER THINGS IN TERMINAL
 
 A text-based RPG game demonstrating Object-Oriented Programming concepts in C++.
 
