@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 Fantasy RPG - OOP School Project
 
 A text-based RPG game demonstrating Object-Oriented Programming concepts in C++.
@@ -58,3 +59,5 @@ School Project - Object-Oriented Programming Module
 ---
 
 **Enjoy the adventure!** 🎲✨
+=======
+
